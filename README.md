@@ -10,7 +10,7 @@ Here's a demo:
 
 ### Dependencies
 
-All of them are in the package.json, it's a big built but if you want to check it out there's a link up there ^^^
+All of them are in the package.json, it's a big built but if you want to check it out there's a link in the about section ^^^
 
 ### Executing program
 
