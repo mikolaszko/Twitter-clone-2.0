@@ -1,23 +1,36 @@
-# Next.js + Tailwind CSS Example
+# Project Title
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Twitter Clone 2.0
 
-## Deploy your own
+## Description
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+Hello everyone! This Next.js w/ Sanity CMS, TS, SSR, Tailwind and NextAuth. Projects like these aka the really complex ones are what drives me forward to be an even better software engineer. Had a ton of fun coding here, a lot of bugs and a lot of new tech that I haven't used before like Sanity.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+Here's a demo:
 
-## How to use
+### Dependencies
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+All of them are in the package.json, it's a big built but if you want to check it out there's a link up there ^^^
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
+### Executing program
+
+You can just type the piece of code in your terminal at a client folder
+
+```
+npm run dev in the twitter-clone-2.0
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Authors
+
+Contributors names and contact info
+
+Mikołaj Sodzawiczny
+[@AjSodzawiczny](https://twitter.com/AjSodzawiczny)
+
+## License
+
+I use the cute bird logo by this license: https://creativecommons.org/licenses/by/4.0/
+
+## Version History
+
+20/07/2022 0.1v
