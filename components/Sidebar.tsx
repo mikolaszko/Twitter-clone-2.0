@@ -31,7 +31,7 @@ function Sidebar() {
       <SidebarRow
         onClick={session ? signOut : signIn}
         Icon={UserIcon}
-        title={session ? 'Sing Out' : 'Sign n'}
+        title={session ? 'Sing Out' : 'Sign In'}
       />
       <SidebarRow Icon={DotsCircleHorizontalIcon} title='More' />
     </div>
